@@ -1,0 +1,4 @@
+goBack: Return to Template Menu
+viewAllTemplateButton: View All Templates
+returnToMainMenuButton: Return to Main Menu
+prompt: Template Menu

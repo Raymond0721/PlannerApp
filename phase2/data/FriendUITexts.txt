@@ -1,0 +1,4 @@
+addFriend: Add Friend
+deleteFriend: Delete Friend
+prompt: <html>Please enter the user ID you want<br/> to operate on:</html>
+goBack: Go Back

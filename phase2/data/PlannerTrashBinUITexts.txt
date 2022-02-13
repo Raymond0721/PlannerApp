@@ -1,0 +1,8 @@
+prompt: <html>Please enter the ID of the planner <br/> you want to edit</html>
+unTrash: Recover
+delete: Permanently Delete
+goBack: Return to Planner Menu
+unTrashSuccessPrompt: Recover successful!
+unTrashFailPrompt: Invalid input, please try again!
+deleteSuccessPrompt: Delete successful!
+deleteFailPrompt: Invalid input, please try again!
